@@ -1,0 +1,5 @@
+name: TaxOracle
+description: Tax compliance & planning — 10 tools
+endpoint: https://tooloracle.io/tax/mcp/
+transport: streamable-http
+license: MIT
